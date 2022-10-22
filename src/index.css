@@ -12,3 +12,9 @@
         @apply text-[40px] font-medium;
     }
 }
+
+@layer components {
+    .pokemon-name {
+        @apply text-[18.4px] font-medium text-center mt-[8px];
+    }
+}

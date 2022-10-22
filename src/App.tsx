@@ -55,7 +55,7 @@ const App: React.FC = () => {
 
         setTimeout(() => {
             pokeNextApi();
-        }, 1000);
+        }, 500);
     };
 
     return (
